@@ -24,7 +24,7 @@ My current passion revolves around applications of more advanced mathematics in 
 #### Misc
 
 * In my leisure time, I play League of Legends! I once reached to D1 in CN and D2 in NA.
-* I'm writing a [note](./assets/Notes.pdf) for differential geometry.
+* I'm writing a [note](/static/asserts/Notes.pdf) for differential geometry.
 
 #### Contact<p id="contact-info"></p>
 
