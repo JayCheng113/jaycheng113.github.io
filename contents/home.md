@@ -3,7 +3,7 @@
 
 #### News
 
-To be updated.
+- 02/2025, A preprint is coming soon...
 
 
 #### Biography
