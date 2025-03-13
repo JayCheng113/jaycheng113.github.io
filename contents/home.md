@@ -29,7 +29,7 @@ My passion lies in geometric deep learning, particularly in applying advanced ma
 
 #### Misc
 
-* I'm compiling a [note](/static/assets/Notes.pdf) on differential geometry, based on MATH561 lectures by Ruobing Zhang.
+* I'm compiling a [note](/static/assets/Notes.pdf) on differential geometry (Riemannian Geometry in $\mathbb{R}^n$), based on MATH561 lectures by Ruobing Zhang.
 
 #### Contact<p id="contact-info"></p>
 
