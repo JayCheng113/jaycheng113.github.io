@@ -14,17 +14,15 @@ I'm a junior majoring in Mathematics at the University of Wisconsin Madison, wit
 
 My passion lies in geometric deep learning, particularly in applying advanced mathematical geometry methods to empower AI. My research interests include:
 
-- <strong><strong>Graph Neural Networks & Trustworthy AI</strong></strong> 
-    * Model Extraction Attacks (MEAs) in the context of Machine Learning as a Service (MLaaS).
+- <strong><strong>Trustworthy AI</strong></strong> 
     * ML certification and robustness verification.
 - <strong><strong>Hyperbolic Neural Networks</strong></strong> 
     * Exploring novel applications of HNNs.
     * Related resources: [Awesome Hyperbolic Representation and Deep Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?tab=readme-ov-file#graph-embeddings).
-- <strong><strong>Generative Models</strong></strong>
-    - I am currently exploring some interesting ideas in this field.
+- <strong><strong>Learning theory</strong></strong> 
+    - ML theory and DL theory.
+    - Related resources: [Foundations of Deep Learning- UMD](https://www.cs.umd.edu/class/fall2022/cmsc828W/); [Foundations of DL- NYU](https://chinmayhegde.github.io/fodl/); [CS639: intro to Learning theory- UWM](http://www.iliasdiakonikolas.org/teaching/Spring23/index.html).
 
-- <strong><strong>Information Geometry</strong></strong>
-    - I am a newcomer to this topic and actively learning.
 
 
 #### Misc
