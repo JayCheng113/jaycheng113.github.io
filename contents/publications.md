@@ -1,6 +1,6 @@
 - FAST-CAD: A Fairness-Aware Framework for Non-Contact Stroke Diagnosis
 
-  Tianming Sha, Zechuan Chen, **Zhan Cheng**, Haotian Zhai, Xuwei Ding, Keze Wang
+  Tianming Sha, **Zhan Cheng**, Zechuan Chen, Haotian Zhai, Xuwei Ding, Keze Wang
 
   AAAI Conference on Artificial Intelligence (**AAAI 2026**).
 
