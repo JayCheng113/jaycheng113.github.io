@@ -1,27 +1,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhan-cheng-83052b292)
 
-
 #### News
+
+- 11/2025: One paper accepted by AAAI 2026 (<font color="red">Oral</font>).
+
+- 08/2025: One paper accepted by KDD 2025 (Poster).
 
 - 02/2025: A preprint is coming soon...
 
 
 #### Biography
 
-I'm a junior majoring in Mathematics at the University of Wisconsin Madison, with a minor in Computer Science and a strong foundational understanding of Electronic Engineering. In Fall 2024, I joined the [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), where I have the privilege of being mentored by [Prof. Yushun Dong](https://yushundong.github.io/). I am deeply grateful to him for guiding me through my first steps into the world of research.
+I'm a senior majoring in Mathematics for Programming and Computing at the University of Wisconsin Madison, with a strong foundational understanding of Electronic Engineering. In Fall 2024, I joined the [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), where I have the privilege of being mentored by [Prof. Yushun Dong](https://yushundong.github.io/). I am deeply grateful to him for guiding me through my first steps into the world of research.
 
 #### Research Interests
 
-My passion lies in geometric deep learning, particularly in applying advanced mathematical geometry methods to empower AI. My research interests include:
+My passion lies in geometric deep learning, trustworthy AI, and scientific AI. My research interests include:
 
 - <strong><strong>Trustworthy AI</strong></strong> 
     * ML certification and robustness verification.
 - <strong><strong>Hyperbolic Neural Networks</strong></strong> 
     * Exploring novel applications of HNNs.
     * Related resources: [Awesome Hyperbolic Representation and Deep Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?tab=readme-ov-file#graph-embeddings).
-- <strong><strong>Learning theory</strong></strong> 
-    - ML theory and DL theory.
-    - Related resources: [Foundations of Deep Learning- UMD](https://www.cs.umd.edu/class/fall2022/cmsc828W/); [Foundations of DL- NYU](https://chinmayhegde.github.io/fodl/); [CS639: intro to Learning theory- UWM](http://www.iliasdiakonikolas.org/teaching/Spring23/index.html).
+- <strong><strong>Scientific AI</strong></strong> 
+    - AI methods for weather prediction
+    - Reasoning capability of foundation agents in physical domains.
 
 
 
