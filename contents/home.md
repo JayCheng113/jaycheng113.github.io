@@ -2,8 +2,6 @@
 
 #### News
 
-- 11/2025: One paper accepted by AAAI 2026 (<font color="red">Oral</font>).
-
 - 08/2025: One paper accepted by KDD 2025 (Poster).
 
 - 02/2025: A preprint is coming soon...
