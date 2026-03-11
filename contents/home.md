@@ -1,4 +1,14 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhan-cheng-83052b292)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MUa3jVMAAAAJ&hl=en)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayCheng113)
+<div class="social-bar">
+  <a class="social-icon" href="https://www.linkedin.com/in/zhan-cheng-83052b292" aria-label="LinkedIn">
+    <i class="bi bi-linkedin"></i>
+  </a>
+  <a class="social-icon" href="https://scholar.google.com/citations?user=MUa3jVMAAAAJ&hl=en" aria-label="Google Scholar">
+    <i class="bi bi-mortarboard"></i>
+  </a>
+  <a class="social-icon" href="https://github.com/JayCheng113" aria-label="GitHub">
+    <i class="bi bi-github"></i>
+  </a>
+</div>
 
 #### News
 

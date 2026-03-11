@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title id="title"></title>
@@ -12,12 +12,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- Google fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&amp;display=swap"
         rel="stylesheet" />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
-        rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&amp;display=swap"
         rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
@@ -27,7 +24,7 @@
 
 <body id="page-top">
     <!-- Navigation-->
-    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
+    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm glass-nav" id="mainNav">
         <div class="container px-5">
             <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
             <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
@@ -56,14 +53,15 @@
     </nav>
 
     <!-- Top Section -->
-    <section class="top-section" style="background-image: url('static/assets/img/hangzhou.jpg');">
-        <div class="top-section-content">
+    <section class="top-section">
+        <div class="top-section-content reveal">
             <div class="container px-1">
-                <div class="row">
-                    <div class="col-lg-8">
-                        <h2 id="top-section-bg-text" class="text-light display-5 lh-1 mb-2 font-alt"></h2>
+                <div class="row align-items-center">
+                    <div class="col-lg-7">
+                        <p id="top-section-bg-text" class="hero-kicker"></p>
+                        <h1 id="home-subtitle" class="hero-title"></h1>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-5">
                         <div class="user-photo photo"><img class="shadow"
                                 src="static/assets/img/photo.jpg"></div>
                     </div>
@@ -76,11 +74,7 @@
 
     <!-- Home -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
-        <div class="container px-5">
-            <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
-            </header>
+        <div class="container px-5 reveal">
             <div class="main-body" id="home-md"></div>
 
 
@@ -90,7 +84,7 @@
 
     <!-- Publications -->
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
-        <div class="container px-5">
+        <div class="container px-5 reveal">
             <header>
                 <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
             </header>
@@ -102,7 +96,7 @@
 
     <!-- Awards -->
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="awards">
-        <div class="container px-5">
+        <div class="container px-5 reveal">
             <header>
                 <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>&nbsp;AWARDS </h2>
             </header>
@@ -114,7 +108,7 @@
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
-        <div class="container px-5">
+        <div class="container px-5 reveal">
             <div class="text-white-50 small">
                 <div id="copyright-text" class="mb-2"></div>
                 <a id="github-link" href="https://github.com/JerryYin777">Github</a>
