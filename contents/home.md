@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhan-cheng-83052b292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhan-cheng-83052b292)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MUa3jVMAAAAJ&hl=en)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayCheng113)
 
 #### News
 
@@ -13,22 +13,19 @@ I'm a senior majoring in Mathematics for Programming and Computing at the Univer
 
 #### Research Interests
 
-My passion lies in geometric deep learning, trustworthy AI, and scientific AI. My research interests include:
+My earlier research mainly focused on data mining and theoretical aspects of machine learning. This included work on graph neural networks, trustworthy machine learning, federated learning, hyperbolic neural networks, and manifold learning. My current research primarily focuses on foundation models. Specific directions include:
 
-- <strong><strong>Trustworthy AI</strong></strong> 
-    * ML certification and robustness verification.
-- <strong><strong>Hyperbolic Neural Networks</strong></strong> 
-    * Exploring novel applications of HNNs.
-    * Related resources: [Awesome Hyperbolic Representation and Deep Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?tab=readme-ov-file#graph-embeddings).
-- <strong><strong>Scientific AI</strong></strong> 
-    - AI methods for weather prediction
-    - Reasoning capability of foundation agents in physical domains.
-
-
+- <strong><strong>Diffusion Large Language Models</strong></strong> 
+- <strong><strong>Agentic RL</strong></strong> 
+  - Terminal Agent
+  - Triton Agent
+  - and related agent frameworks
+- <strong><strong>GRPO Variants</strong></strong> 
 
 #### Misc
 
 * I'm compiling a [note](/static/assets/Notes.pdf) on differential geometry (Riemannian Geometry in $\mathbb{R}^n$), based on MATH561 lectures by Ruobing Zhang.
+* I'm writing a [note](/static/assets/triton.pdf) for [Triton Puzzles Lite](https://github.com/SiriusNEO/Triton-Puzzles-Lite).
 
 #### Contact<p id="contact-info"></p>
 
