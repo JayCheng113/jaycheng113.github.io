@@ -2,8 +2,8 @@
   <a class="social-icon" href="https://www.linkedin.com/in/zhan-cheng-83052b292" aria-label="LinkedIn">
     <i class="bi bi-linkedin"></i>
   </a>
-  <a class="social-icon" href="https://scholar.google.com/citations?user=MUa3jVMAAAAJ&hl=en" aria-label="Google Scholar">
-    <i class="bi bi-mortarboard"></i>
+  <a class="social-icon" href="https://scholar.google.com/citations?user=MUa3jVMAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar">
+    <i class="bi bi-book"></i>
   </a>
   <a class="social-icon" href="https://github.com/JayCheng113" aria-label="GitHub">
     <i class="bi bi-github"></i>
