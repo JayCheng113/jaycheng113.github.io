@@ -22,9 +22,9 @@ My earlier research mainly focused on data mining and theoretical aspects of mac
 
 #### Research Interests
 
-- <strong><strong>Diffusion Large Language Models</strong></strong> — exploring non-autoregressive generation via discrete diffusion, where tokens are iteratively denoised rather than generated left-to-right
-- <strong><strong>Agentic RL</strong></strong> — training LLM agents that operate autonomously in real environments such as terminals and GPU-level code generation (Triton)
+- <strong><strong>Agentic RL</strong></strong> — training LLM agents that operate autonomously in real environments such as terminals and GPU-level code generation (Triton). I also built [InfiEpisteme](https://github.com/JayCheng113/InfiEpisteme), an automated research pipeline that helps write code, run experiments, and draft papers — currently under intensive evaluation
 - <strong><strong>GRPO Variants</strong></strong> — investigating alternatives to Group Relative Policy Optimization for more stable and efficient reward-driven fine-tuning
+- Other topics I find interesting, including Diffusion LLMs, training dynamics of LLMs, model merging, and more
 
 #### Misc
 
