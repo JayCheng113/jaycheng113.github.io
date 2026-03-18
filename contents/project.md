@@ -2,29 +2,29 @@
 
 <div class="project-card">
 
-### [skill-retrieval-mcp](https://github.com/JayCheng113/skill-retrieval-mcp)
+### [InfiEpisteme](https://github.com/JayCheng113/InfiEpisteme)
 
-<span class="project-badge">Python</span> <span class="project-badge">MCP</span> <span class="project-badge">AI Agents</span>
+<span class="project-badge">Python</span> <span class="project-badge">AI Agents</span> <span class="project-badge">Research Automation</span>
 
-An MCP server enabling AI agents to search and access **89K+ skills** on-demand across technical domains. Instead of pre-loading thousands of skill descriptions into system prompts, agents perform semantic searches at runtime — keeping context lean and relevant.
+Describe a research idea in natural language, and get back a peer-review-quality paper, clean code, and organized results — all orchestrated end-to-end by **Claude Code**.
 
-- Semantic & keyword search across 89,267 structured skill guides
-- Custom skill support via YAML frontmatter with auto-indexing
-- 139 tests, MIT licensed
+- 19 markdown-based skills driving the full pipeline: literature survey → experiment → paper writing
+- Three-layer quality gates with human checkpoints at critical junctures
+- Distributed orchestration: local Claude Code spawns independent instances on GPU servers
 
 </div>
 
 <div class="project-card">
 
-### [EZVibe-Light](https://github.com/JayCheng113/EZVibe-Light)
+### [Nano-LLaDA](https://github.com/JayCheng113/Nano-LLaDA)
 
-<span class="project-badge">TypeScript</span> <span class="project-badge">CLI</span> <span class="project-badge">Developer Tools</span>
+<span class="project-badge">Python</span> <span class="project-badge">Diffusion LLM</span> <span class="project-badge">NLP</span>
 
-A lightweight terminal UI (43 KB) for managing multiple **Claude Code** sessions simultaneously. Orchestrate coding tasks across projects with session persistence via tmux, visual stage tracking, and zero configuration.
+A lightweight (~30M params) reimplementation of **LLaDA** for fast, low-resource experimentation with discrete diffusion language models — combining autoregressive and masked denoising on a shared transformer backbone.
 
-- One-command launch: `npx ezvibe-light`
-- Full session lifecycle with visual status indicators
-- Built with Ink (React for CLI), 43 tests, MIT licensed
+- LLaDA 1.0 & 2.0: bidirectional mask prediction, iterative remasking sampling
+- Complete training pipeline: pretraining, SFT, and generation quality evaluation
+- Block curriculum learning, Warmup-Stable-Decay mask scheduling
 
 </div>
 
