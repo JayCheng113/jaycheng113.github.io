@@ -12,9 +12,9 @@
 
 #### News
 
-- 08/2025: One paper accepted by KDD 2025 (Poster).
+- 03/2026: Released [InfiEpisteme](https://github.com/JayCheng113/InfiEpisteme) — uses markdown files as self-modifying state machines to orchestrate the research pipeline from literature survey to paper writing, runnable by any LLM agent.
 
-- 03/2025: Released [InfiEpisteme](https://github.com/JayCheng113/InfiEpisteme) — uses markdown files as self-modifying state machines to orchestrate the research pipeline from literature survey to paper writing, runnable by any LLM agent.
+- 08/2025: One paper accepted by KDD 2025 (Poster).
 
 #### Biography
 
