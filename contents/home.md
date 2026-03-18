@@ -18,6 +18,8 @@
 
 I'm a senior majoring in Mathematics for Programming and Computing at the University of Wisconsin Madison. In Fall 2024, I joined the [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), where I have the privilege of being mentored by [Prof. Yushun Dong](https://yushundong.github.io/). I am deeply grateful to him for guiding me through my first steps into the world of research.
 
+My earlier research mainly focused on data mining and theoretical aspects of machine learning. This included work on graph neural networks, trustworthy machine learning, federated learning, hyperbolic neural networks, and manifold learning. My current research primarily focuses on foundation models. Specific directions include:
+
 #### Research Interests
 
 - <strong><strong>Diffusion Large Language Models</strong></strong> — exploring non-autoregressive generation via discrete diffusion, where tokens are iteratively denoised rather than generated left-to-right
@@ -32,6 +34,6 @@ I'm a senior majoring in Mathematics for Programming and Computing at the Univer
 
 #### Contact<p id="contact-info"></p>
 
-I am always open to discussions on interesting topics! If you'd like to collaborate, feel free to reach out:
+I have far more research ideas than I can pursue alone — constrained by time and compute, many remain unexplored. If you're interested in collaborating on any of these directions, feel free to reach out:
 
 * ✉️ [zcheng256[at]wisc.edu](mailto:zcheng256@wisc.edu)
