@@ -1,2 +1,4 @@
 *.DS_Store
 
+# Local-only maintenance notes — not for public consumption
+AGENT.md
