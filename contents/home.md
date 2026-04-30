@@ -12,15 +12,21 @@
 
 #### News
 
-- 03/2026: Released [InfiEpisteme](https://github.com/JayCheng113/InfiEpisteme) — uses markdown files as self-modifying state machines to orchestrate the research pipeline from literature survey to paper writing, runnable by any LLM agent.
+- 05/2026: Honored to be joining [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern, working on LLM agents.
+
+- 04/2026: One paper accepted by ICML 2026 (Regular).
+
+- 11/2025: One paper accepted by AAAI 2026 (Oral).
 
 - 08/2025: One paper accepted by KDD 2025 (Poster).
 
 #### Biography
 
-I'm a senior majoring in Mathematics for Programming and Computing at the University of Wisconsin Madison. In Fall 2024, I joined the [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), where I have the privilege of being mentored by [Prof. Yushun Dong](https://yushundong.github.io/). I am deeply grateful to him for guiding me through my first steps into the world of research.
+I received my Bachelor's degree in Mathematics from the University of Wisconsin–Madison in May 2026, with a major in Mathematics for Programming and Computing and a minor in Computer Science. In Fall 2024, I joined the [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), where I have the privilege of being mentored by [Prof. Yushun Dong](https://yushundong.github.io/). I am deeply grateful to him for guiding me through my first steps into the world of research.
 
 My earlier research mainly focused on data mining and theoretical aspects of machine learning. This included work on graph neural networks, trustworthy machine learning, federated learning, hyperbolic neural networks, and manifold learning. My current research primarily focuses on foundation models.
+
+This summer I'll be at MSRA exploring agentic systems. In January 2027 I'll join the National University of Singapore for the Master of Financial Engineering program. I'm currently open to research and internship opportunities in both AI and quantitative finance.
 
 #### Research Interests
 
@@ -32,7 +38,6 @@ My earlier research mainly focused on data mining and theoretical aspects of mac
 
 * [Notes on Differential Geometry](/static/assets/Notes.pdf) (Riemannian Geometry in $\mathbb{R}^n$), based on MATH561 lectures by Ruobing Zhang.
 * [Notes on Triton Puzzles](/static/assets/triton.pdf), based on [Triton Puzzles Lite](https://github.com/SiriusNEO/Triton-Puzzles-Lite).
-* Dean's List (Fall 2024), University of Wisconsin–Madison.
 
 #### Contact<p id="contact-info"></p>
 
